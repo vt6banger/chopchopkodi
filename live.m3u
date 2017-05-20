@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,US Main Channel
+http://motorsport.cf:8080
+#EXTINF:-1,EU-Mirror
+http://motorsport-eu.cf:8080
+#EXTINF:-1,AU-Mirror
+http://motorsport-au.cf:8080
